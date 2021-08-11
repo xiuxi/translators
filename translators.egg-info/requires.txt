@@ -1,0 +1,5 @@
+requests>=2.25.1
+PyExecJS>=1.5.1
+lxml>=4.5.0
+loguru>=0.4.1
+pathos>=0.2.7
